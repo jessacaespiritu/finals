@@ -41,7 +41,7 @@ body::before {
       rgba(160, 179, 11, 0.8),
       rgba(60, 139, 87, 0.7)
     ),
-    url(https://www.w3schools.com/css/img_forest.jpg);
+  
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
@@ -183,18 +183,3 @@ form {
   border-radius: 2px;
   cursor: pointer;
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact GitHub
-Pricing
-API
-Training
-Blog
-About
-SurveyForm/style.css at main · jessacaespiritu/SurveyForm
